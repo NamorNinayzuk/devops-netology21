@@ -1,2 +1,2 @@
-# devops-netology21
- 2.1
+# devops-netology
+2.1
